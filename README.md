@@ -259,8 +259,7 @@ For inquiries, collaborations, or customizations:
 Ready to build custom solutions or enhance this system for your needs!
 
 ## 📄 License
-
-MIT License - Free for personal/portfolio use. Commercial licensing available for enterprise deployments.
+Free for personal/portfolio use. Commercial licensing available for enterprise deployments.
 
 ---
 
